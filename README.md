@@ -1,2 +1,2 @@
-# DIO-Exerc-cios
+# DIO-Exercícios
 Atividades da DIO
